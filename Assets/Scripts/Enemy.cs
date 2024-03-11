@@ -19,7 +19,11 @@ public class Enemy : MonoBehaviour
             if(listContacts[0].normal.y < -0.5f){
                 Destroy(gameObject);
 <<<<<<< HEAD
+<<<<<<< HEAD
             } 
+=======
+            }
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
             }
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b

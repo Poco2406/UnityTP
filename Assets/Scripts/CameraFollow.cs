@@ -1,4 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
 using System.Collections;
 using System.Collections.Generic;
@@ -8,6 +14,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
+<<<<<<< HEAD
 <<<<<<< HEAD
     public Transform target;
     private Vector3 velocity = Vector3.zero;
@@ -34,6 +41,8 @@ public class CameraFollow : MonoBehaviour
     }
 }
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
     public  GameObject player;
     public Transform target; 
     public Vector3 velocity = Vector3.zero; 
@@ -53,5 +62,9 @@ public class CameraFollow : MonoBehaviour
         Vector3 targetPosition = target.position + positionOffset ;
         transform.position=Vector3.SmoothDamp(transform.position,targetPosition, ref velocity, smoothTime);     
     }
+<<<<<<< HEAD
+}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 }
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b

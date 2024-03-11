@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     public Rigidbody2D rb;
 
     // Player's direction
@@ -23,6 +24,8 @@ public class PlayerMovement : MonoBehaviour
     public bool isFacingRight = true;
     public Animator animator;
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
       public Rigidbody2D rb; 
 
     // Player's direction
@@ -39,6 +42,9 @@ public class PlayerMovement : MonoBehaviour
       public LayerMask listGroundLayers;
 
       public bool isFacingRight = true;
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 
 
@@ -50,6 +56,7 @@ public class PlayerMovement : MonoBehaviour
         //Debug.Log(moveDirectionX);
 
 <<<<<<< HEAD
+<<<<<<< HEAD
         if (Input.GetButtonDown("Jump") && currentNumberOfJumps < nbMaxJumpsAllowed)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
@@ -58,6 +65,8 @@ public class PlayerMovement : MonoBehaviour
 
         if (!Input.GetButton("Jump") && isOnGround)
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
         if( Input.GetButtonDown("Jump")&&
         currentNumberOfJumps < nbMaxJumpsAllowed )
         {
@@ -66,11 +75,15 @@ public class PlayerMovement : MonoBehaviour
         }
         
         if(!Input.GetButton("Jump")&& isOnGround )
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
         {
             currentNumberOfJumps = 0;
         }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
         
     }
@@ -115,6 +128,8 @@ public class PlayerMovement : MonoBehaviour
     }
  
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
     }
 
     private void FixedUpdate() {
@@ -130,5 +145,8 @@ public class PlayerMovement : MonoBehaviour
         );
     }
 
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 }

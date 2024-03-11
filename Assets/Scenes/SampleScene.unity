@@ -203,6 +203,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 145319980}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &204717748
 GameObject:
   m_ObjectHideFlags: 0
@@ -3766,6 +3767,8 @@ TilemapCollider2D:
   m_UseDelaunayMesh: 0
 =======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!1 &211308475
 GameObject:
   m_ObjectHideFlags: 0
@@ -4095,7 +4098,11 @@ Camera:
   serializedVersion: 2
   m_ClearFlags: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_BackGroundColor: {r: 0.82793164, g: 0.88044894, b: 0.93962264, a: 0}
+=======
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4167,6 +4174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   target: {fileID: 1414988241}
   smoothTime: 0.5
 --- !u!1 &638141070
@@ -4201,11 +4209,16 @@ Transform:
   m_Father: {fileID: 1414988241}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   player: {fileID: 1385631829}
   target: {fileID: 1385631833}
   velocity: {x: 0, y: 0, z: -10}
   smoothTime: 0.5
   positionOffset: {x: 0, y: 0, z: -10}
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!1 &659789838
 GameObject:
@@ -4324,8 +4337,11 @@ GameObject:
   - component: {fileID: 695429706}
   - component: {fileID: 695429711}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 695429712}
   - component: {fileID: 695429713}
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_Layer: 0
@@ -4343,7 +4359,11 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 695429705}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Enabled: 0
+=======
+  m_Enabled: 1
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_Enabled: 1
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4388,7 +4408,11 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
     oldSize: {x: 2, y: 2}
+=======
+    oldSize: {x: 1, y: 1}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
     oldSize: {x: 1, y: 1}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4424,15 +4448,21 @@ Rigidbody2D:
     serializedVersion: 2
     m_Bits: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 5
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!212 &695429709
 SpriteRenderer:
@@ -4476,9 +4506,15 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Sprite: {fileID: -2118061842, guid: b6a7b3259788d1f4ea220324025663fb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
+=======
+  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Color: {r: 1, g: 0, b: 0.054374695, a: 1}
+  m_FlipX: 0
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 0, b: 0.054374695, a: 1}
@@ -4502,7 +4538,11 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: 4.89, y: -1.89, z: 0}
+=======
+  m_LocalPosition: {x: 7.2822, y: -2.2421, z: 0}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_LocalPosition: {x: 7.2822, y: -2.2421, z: 0}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4523,6 +4563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a838d8e676c993a4da45e957fbee2694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   playerHealth: {fileID: 1414988242}
   damage: 20
@@ -4691,6 +4732,10 @@ Tilemap:
   playerHealth: {fileID: 1385631835}
   damage: 20
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
+  playerHealth: {fileID: 1385631835}
+  damage: 20
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!1 &795002897
 GameObject:
   m_ObjectHideFlags: 0
@@ -4728,7 +4773,11 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_AnchoredPosition: {x: -327, y: 224}
+=======
+  m_AnchoredPosition: {x: -468, y: 235}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_AnchoredPosition: {x: -468, y: 235}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4935,7 +4984,11 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Color: {r: 0.9372549, g: 0.65961164, b: 0.49019608, a: 1}
+=======
+  m_Color: {r: 0.29930225, g: 0.4792453, b: 0.3094114, a: 1}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_Color: {r: 0.29930225, g: 0.4792453, b: 0.3094114, a: 1}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -4958,8 +5011,13 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: -0.062, y: -3.6509, z: 0}
   m_LocalScale: {x: 38.985836, y: 1.3219434, z: 1}
+=======
+  m_LocalPosition: {x: 0.12, y: -3.65, z: 0}
+  m_LocalScale: {x: 38.17401, y: 1, z: 1}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_LocalPosition: {x: 0.12, y: -3.65, z: 0}
   m_LocalScale: {x: 38.17401, y: 1, z: 1}
@@ -5147,7 +5205,11 @@ CanvasRenderer:
   m_GameObject: {fileID: 1359598951}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1414988239
+=======
+--- !u!1 &1385631829
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
 --- !u!1 &1385631829
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -5159,6 +5221,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1414988241}
   - component: {fileID: 1414988240}
   - component: {fileID: 1414988245}
@@ -5169,6 +5232,8 @@ GameObject:
   m_Layer: 0
   m_Name: Player
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   - component: {fileID: 1385631833}
   - component: {fileID: 1385631832}
   - component: {fileID: 1385631831}
@@ -5177,6 +5242,9 @@ GameObject:
   - component: {fileID: 1385631835}
   m_Layer: 0
   m_Name: player
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -5184,8 +5252,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!212 &1414988240
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!61 &1385631830
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5259,6 +5330,9 @@ Rigidbody2D:
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!212 &1385631832
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5266,7 +5340,11 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1414988239}
+=======
+  m_GameObject: {fileID: 1385631829}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_GameObject: {fileID: 1385631829}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -5305,6 +5383,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Sprite: {fileID: 1993915999, guid: b6a7b3259788d1f4ea220324025663fb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5312,12 +5391,17 @@ SpriteRenderer:
   m_DrawMode: 0
   m_Size: {x: 2, y: 2}
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 0.99426746, g: 0.91132075, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
@@ -5325,7 +5409,11 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1414988241
+=======
+--- !u!4 &1385631833
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
 --- !u!4 &1385631833
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -5334,6 +5422,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1414988239}
   serializedVersion: 2
@@ -5347,6 +5436,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1414988242
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_GameObject: {fileID: 1385631829}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -5358,6 +5449,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1385631834
+<<<<<<< HEAD
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5376,12 +5468,18 @@ MonoBehaviour:
   healthBar: {fileID: 795002900}
   gameManager: {fileID: 461322418}
 --- !u!114 &1414988243
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1414988239}
+=======
+  m_GameObject: {fileID: 1385631829}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_GameObject: {fileID: 1385631829}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -5390,6 +5488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5d9caac31a442744938238a75f01e81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   rb: {fileID: 1414988244}
   moveDirectionX: 0
@@ -5401,6 +5500,8 @@ MonoBehaviour:
   groundCheckRadius: 0.2
   isOnGround: 0
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   rb: {fileID: 1385631831}
   moveDirectionX: 0
   moveSpeed: 5
@@ -5410,11 +5511,15 @@ MonoBehaviour:
   groundCheck: {fileID: 1420923570}
   groundCheckRadius: 0.2
   isOnGround: 1
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   listGroundLayers:
     serializedVersion: 2
     m_Bits: 8
   isFacingRight: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   animator: {fileID: 1414988246}
 --- !u!50 &1414988244
@@ -5424,10 +5529,15 @@ Rigidbody2D:
 --- !u!114 &1385631835
 MonoBehaviour:
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
+--- !u!114 &1385631835
+MonoBehaviour:
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1414988239}
   m_BodyType: 0
@@ -5451,6 +5561,8 @@ MonoBehaviour:
   m_Constraints: 4
 --- !u!61 &1414988245
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_GameObject: {fileID: 1385631829}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -5494,6 +5606,9 @@ Transform:
   m_Father: {fileID: 1385631833}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1420923571
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5501,7 +5616,11 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1414988239}
+=======
+  m_GameObject: {fileID: 1420923569}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_GameObject: {fileID: 1420923569}
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
@@ -5531,6 +5650,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Offset: {x: 0.033705413, y: -0.34828854}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -5539,6 +5659,8 @@ BoxCollider2D:
     newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
 =======
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
   m_Offset: {x: 0, y: 0.24322289}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -5546,11 +5668,15 @@ BoxCollider2D:
     oldSize: {x: 0, y: 0}
     newSize: {x: 0, y: 0}
     adaptiveTilingThreshold: 0
+<<<<<<< HEAD
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Size: {x: 1.01131, y: 1.3034229}
   m_EdgeRadius: 0
@@ -5575,6 +5701,10 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+  m_Size: {x: 1, y: 0.5135542}
+  m_EdgeRadius: 0
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   m_Size: {x: 1, y: 0.5135542}
   m_EdgeRadius: 0
@@ -5981,6 +6111,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1780593605}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1903951608
 GameObject:
   m_ObjectHideFlags: 0
@@ -6361,15 +6492,23 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 519420032}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 695429710}
   - {fileID: 1414988241}
   - {fileID: 943905779}
+=======
+  - {fileID: 1385631833}
+  - {fileID: 943905779}
+  - {fileID: 695429710}
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
   - {fileID: 1385631833}
   - {fileID: 943905779}
@@ -6381,6 +6520,9 @@ SceneRoots:
   - {fileID: 659789842}
   - {fileID: 1256597373}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2133153401}
+=======
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b

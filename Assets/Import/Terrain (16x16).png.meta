@@ -35,7 +35,11 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
 =======
     filterMode: 1
 >>>>>>> 66f3e245e48ff46e264124e9184def235d17a21b
