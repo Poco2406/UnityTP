@@ -71,9 +71,3 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.so
-Library/PackageCache/com.unity.burst@1.8.12/.Runtime/burst-llvm-16.dll
-Library/PackageCache/com.unity.burst@1.8.12/.Runtime/hostmac/dsymutil
-Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-10.dylib
-Library/PackageCache/com.unity.burst@1.8.12/.Runtime/libburst-llvm-16.dylib
-
